@@ -1,2 +1,0 @@
-# git-yellowgiraffe
-Module GIT
